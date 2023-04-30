@@ -38,7 +38,7 @@
 <img width="40" height="40" alt="nodejs" src="./icons/nodejs-plain-wordmark.svg"/>
 <img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
 <!-- <img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/> -->
-<img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/>
+<!-- <img width="40" height="40" alt="graphql" src="./icons/graphql.svg"/> -->
 <img width="40" height="40" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
 <!-- <img width="40" height="40" alt="postgresql" src="./icons/postgresql-plain.svg"/> -->
 <img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
