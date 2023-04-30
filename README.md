@@ -44,7 +44,7 @@
 <img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> -->
  <img width="40" height="40" alt="Reactnative" src="./icons/reanative.svg/>
 
 <!-- <img width="40" height="40" alt="go" src="./icons/go-original.svg"/>
