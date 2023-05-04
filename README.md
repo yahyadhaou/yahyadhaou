@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Python .
 
-<!-- - 👯 I’m looking to collaborate on Youtube . -->
+<!-- -  I’m looking to collaborate on Youtube . -->
 
 - 📫 How to reach me **yahya.dhaou75@gmail.com**
 
