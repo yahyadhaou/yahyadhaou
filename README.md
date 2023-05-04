@@ -44,7 +44,7 @@
 <img width="40" height="40" alt="sequelize" src="./icons/sequelize-original.svg"/>
 <img width="40" height="40" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="40" height="40" alt="mocha" src="./icons/mocha-plain.svg"/>
- <img width="40" height="40" alt="reactnative" src="./icons/reactnative.svg/>
+<img width="40" height="40" alt="reactnative" src="./icons/reactnative.svg"/>
 </p>
 
 
