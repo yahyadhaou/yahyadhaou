@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yahyadhaou" alt="yahyadhaou" /> </p>
 
-- 🔭 I’m currently working on Some Projects .
+- 🔭 I’m currently working on Admin Dashbord with chart.js .
 
 - 🌱 I’m currently learning Python .
 
