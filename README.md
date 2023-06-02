@@ -5,11 +5,11 @@
 <a href="https://www.linkedin.com/in/yahya-dhaou-bb3862232/" target="_blank" style="margin : auto 5px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahyadhaou" height="30" width="30" /></a>
 <a href="https://www.facebook.com/Dhaou.yahya2410/"  target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yahyadhaou" height="30" width="30" /></a>
 </p>
-<a href="https://app.daily.dev/yahyadhaou"><img src="https://api.daily.dev/devcards/f60031fff9524bc6a1d2a9657c8d0b15.png?r=el1" width="400" alt="yahya dhaou's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/yahyadhaou"><img src="https://api.daily.dev/devcards/f60031fff9524bc6a1d2a9657c8d0b15.png?r=el1" width="350" alt="yahya dhaou's Dev Card"/></a> -->
 
 ---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yahyadhaou" alt="yahyadhaou" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yahyadhaou"  alt="yahyadhaou" /> </p>
 
 - 🔭 I’m currently working on Admin Dashbord with chart.js .
 
