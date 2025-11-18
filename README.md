@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yahyadhaou"  alt="yahyadhaou" /> </p>
 
-- 🔭 I’m currently working on Lawyers platform in Germany .
+- 🔭 I’m currently looking for new challenges in Germany .
 
 - 🌱 I’m currently learning Python .
 
